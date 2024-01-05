@@ -64,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nrmnqdds/ui](https://github.com/nrmnqdds/ui)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|70<br/>Tools used|12/31/23 <br/>Report generated|
+|72<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -318,9 +318,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (42)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (44)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (42)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (44)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -339,6 +339,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.59.6|06/22/23|shadcn |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.59.7|06/22/23|shadcn |BSD-2-Clause|N/A|
 |[@vercel/analytics](https://www.npmjs.com/@vercel/analytics)|v1.0.1|05/29/23|shadcn |N/A|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v5.2.0|03/08/23|shadcn |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v10.0.0|03/08/23|shadcn |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v8.0.1|04/17/23|shadcn |MIT|N/A|
 |[cosmiconfig](https://www.npmjs.com/cosmiconfig)|v8.1.3|06/22/23|shadcn |MIT|N/A|
@@ -350,6 +351,7 @@ Full tech stack [here](/techstack.md)
 |[execa](https://www.npmjs.com/execa)|v7.0.0|03/08/23|shadcn |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v11.1.0|03/08/23|shadcn |MIT|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v6.2.0|06/22/23|shadcn |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|05/29/23|shadcn |MIT|N/A|
 |[lodash.template](https://www.npmjs.com/lodash.template)|v4.5.0|06/22/23|shadcn |MIT|N/A|
 |[next-contentlayer](https://www.npmjs.com/next-contentlayer)|v0.3.4|12/22/23|shadcn |N/A|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v3.3.0|06/22/23|shadcn |MIT|N/A|
