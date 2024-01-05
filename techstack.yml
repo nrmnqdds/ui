@@ -2,11 +2,11 @@ repo_name: nrmnqdds/ui
 report_id: 6aa8cabb9feec14685d28ac845612334
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-31T05:22:28+00:00'
+timestamp: '2024-01-05T08:13:46+00:00'
 requested_by: kal07
 provider: github
 branch: main
-detected_tools_count: 70
+detected_tools_count: 72
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/nrmnqdds/ui
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/nrmnqdds/ui
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/nrmnqdds/ui
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -45,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/package.json
   detection_source: package.json
   last_updated_by: shadcn
   last_updated_on: 2023-05-29 07:02:02.000000000 Z
@@ -56,6 +60,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/104809/default_a92a415b1e57e7ff4b57998b50887b69d1c96701.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-06-22 18:44:52.000000000 Z
@@ -95,6 +100,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-01-24 15:51:29.000000000 Z
@@ -121,6 +127,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/5608/13690587.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-05-29 07:02:02.000000000 Z
@@ -133,6 +140,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-12-22 19:36:59.000000000 Z
@@ -159,6 +167,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-01-24 15:51:29.000000000 Z
@@ -171,6 +180,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-06-22 18:44:52.000000000 Z
@@ -182,6 +192,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nrmnqdds/ui
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -191,6 +202,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/.github/workflows/code-check.yml
   detection_source: ".github/workflows/code-check.yml"
   last_updated_by: shadcn
   last_updated_on: 2023-02-10 07:15:33.000000000 Z
@@ -216,6 +228,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/packages/cli/test/fixtures/project-yarn/yarn.lock
   detection_source: packages/cli/test/fixtures/project-yarn/yarn.lock
   last_updated_by: shadcn
   last_updated_on: 2023-06-22 18:44:52.000000000 Z
@@ -227,6 +240,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/packages/cli/test/fixtures/t3-app/package.json
   detection_source: packages/cli/test/fixtures/t3-app/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-06-22 18:44:52.000000000 Z
@@ -239,6 +253,7 @@ tools:
   category: Collaboration
   sub_category: Project Management
   image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-03-08 07:37:15.000000000 Z
@@ -250,6 +265,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-06-22 18:44:52.000000000 Z
@@ -262,6 +278,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/nrmnqdds/ui
   detection_source: Repo Metadata
 - name: Vercel AI SDK
   description: An interoperable, streaming-enabled, edge-ready software development
@@ -283,6 +300,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-01-24 15:51:29.000000000 Z
@@ -292,6 +310,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-03-08 07:37:15.000000000 Z
@@ -304,6 +323,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/apps/www/package.json
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-05-29 07:02:02.000000000 Z
@@ -313,6 +333,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/48327/default_e1e547104832f8e187369b19e928e17a8be5020b.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/package.json
   detection_source: package.json
   last_updated_by: shadcn
   last_updated_on: 2023-12-22 19:36:59.000000000 Z
@@ -321,6 +342,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/package.json
   detection_source: package.json
   last_updated_by: shadcn
   last_updated_on: 2023-05-29 07:02:02.000000000 Z
@@ -533,6 +555,20 @@ tools:
   detection_source: apps/www/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-05-29 07:02:02.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/packages/cli/package.json
+  detection_source: packages/cli/package.json
+  last_updated_by: shadcn
+  last_updated_on: 2023-03-08 07:37:15.000000000 Z
 - name: commander
   description: The complete solution for node.js command-line programs
   package_url: https://www.npmjs.com/commander
@@ -687,6 +723,20 @@ tools:
   detection_source: packages/cli/package.json
   last_updated_by: shadcn
   last_updated_on: 2023-06-22 18:44:52.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/nrmnqdds/ui/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: shadcn
+  last_updated_on: 2023-05-29 07:02:02.000000000 Z
 - name: lodash.template
   description: The Lodash method `_.template` exported as a module
   package_url: https://www.npmjs.com/lodash.template
